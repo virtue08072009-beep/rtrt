@@ -3118,3 +3118,4 @@ var hd={}
  const KillScript = () => process.exit(1);
  
  setTimeout(KillScript, args.time * 1000);
+
